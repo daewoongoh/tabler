@@ -1,12 +1,12 @@
 // Setting items
-const items = {
-	"menu-position": { localStorage: "tablerMenuPosition", default: "top" },
-	"menu-behavior": { localStorage: "tablerMenuBehavior", default: "sticky" },
-	"container-layout": {
-		localStorage: "tablerContainerLayout",
-		default: "boxed",
-	},
-}
+		const items = {
+			"menu-position": { localStorage: "tablerMenuPosition", default: "top" },
+			"menu-behavior": { localStorage: "tablerMenuBehavior", default: "sticky" },
+			"container-layout": {
+				localStorage: "tablerContainerLayout",
+				default: "boxed",
+			},
+		}
 
 // Theme config
 const config = {}
